@@ -525,7 +525,11 @@ Responsive */
     }
 
     .banner-info{
-        height: 500px ;
+        height: 600px ;
+    }
+
+    .banner-info-form {
+        margin-top: 0px;
     }
 
 
