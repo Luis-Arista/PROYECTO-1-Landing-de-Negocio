@@ -136,7 +136,7 @@ header{
     width: 20px;
 }
 
-.formulario button {
+.banner-button-form {
     padding: 10px;
     border-radius: 2px;
     border: none;
@@ -146,11 +146,11 @@ header{
     width: 100%;
     margin-top: 15px;
     font-size: 15px;
-    box-shadow: 0 0 15px 5px #ffcebe;
+    box-shadow: 0 0 10px 0px #ffcebe;
 
 }
 
-.formulario button:hover{
+.banner-button-form:hover{
     background-color: #188292;
     cursor: pointer;
 }
@@ -246,19 +246,19 @@ header{
     text-decoration: none;
     color: white;
     padding: 15px 10px;
-    background-color: #bb2734;
+    background-color: #cd2c6c;
     width: 250px;
     height: 20px;
 }
 
 .dessert-footer a:hover{
-    background-color: rgb(179, 39, 65);
+    background-color: #188292;
 }
 
 /*Adiciona--------------------------------------------*/
 
 .aditional {
-    background-color: #5784ba;
+    background-color: #33539E;
 }
 
 .aditional-container {
@@ -310,17 +310,17 @@ header{
     padding: 10px;
     border-radius: 2px;
     border: none;
-    background-color: rgb(117, 23, 102);
+    background-color: #3e9fb2;
     color: white;
     font-weight: bold;
-    width: 250px;
+    width: 100%;
     margin-top: 15px;
     font-size: 15px;
 
 }
 
 .aditional-button-form:hover{
-    background-color: rgb(168, 35, 146);
+    background-color: #7facd6;
     cursor: pointer;
 }
 
