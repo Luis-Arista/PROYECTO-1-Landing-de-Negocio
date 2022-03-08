@@ -506,6 +506,7 @@ Responsive */
 
     .navbar-menu-option {
         display: none;
+        
     }
     
     
@@ -515,6 +516,7 @@ Responsive */
         display: flex;
         justify-content: right;
         align-items: center;
+        background-color: red;
         
     }
 
