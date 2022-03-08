@@ -465,8 +465,10 @@ Responsive */
     .banner{
         
         background-image: url(./assets/img/Brownie\ banner.jpeg);
-        background-position: center;
-        background-attachment: local;
+        background-position: left;
+        background-size: cover;
+        background-attachment: scroll;
+        
 }
 
     /* Desserts---------------------------------- */
