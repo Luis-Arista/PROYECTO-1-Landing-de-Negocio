@@ -5,7 +5,7 @@ body{
 }
 
 header{
-    background-color: rgb(31, 30, 30);
+    background-color: #094f59;
 }
 
 .navbar{
@@ -29,7 +29,7 @@ header{
 }
 
 .navbar-menu-option a:hover {
-    background-color: rgb(134, 28, 47);
+    background-color: #188292;
 }
 
 .navbar-menu-icon img{
@@ -62,8 +62,8 @@ header{
 }
 
 .banner-info {
-    background-color: rgb(31, 30, 30);
-    height: 450px;
+    background-color: #cd2c6c;
+    height: 500px;
     width: 500px;
     border-radius: 10px;
     color: white;
@@ -76,7 +76,7 @@ header{
 
 .banner-info-title {
     padding: 10px 20px;
-    background-color: rgb(134, 28, 47);
+    background-color: #5f023a;
     border-radius: 10px 10px 0 0;
 }
 
@@ -92,14 +92,25 @@ header{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+
 .banner-info-form {
     margin-top: 20px;
     padding: 10px 20px;
 }
 
+.formulario-info{
+    font-size: 14px;
+    margin: 0;
+    padding: 5px 10px;
+    background-color: #094f59;
+    width: 95%;
+    color: white;
+
+}
+
 .email {
     padding: 15px;
-    width: 90%;
+    width: 100%;
     border-radius: 2px;
     border: none;
     margin-top: 15px;
@@ -125,20 +136,22 @@ header{
     width: 20px;
 }
 
-.banner-info-form button {
+.formulario button {
     padding: 10px;
     border-radius: 2px;
     border: none;
-    background-color: rgb(134, 28, 47);
+    background-color: #5f023a;
     color: white;
     font-weight: bold;
     width: 100%;
     margin-top: 15px;
     font-size: 15px;
+    box-shadow: 0 0 15px 5px #ffcebe;
+
 }
 
-.banner-info-form button:hover{
-    background-color: rgb(179, 39, 65);
+.formulario button:hover{
+    background-color: #188292;
     cursor: pointer;
 }
 
@@ -233,7 +246,7 @@ header{
     text-decoration: none;
     color: white;
     padding: 15px 10px;
-    background-color: rgb(134, 28, 47);
+    background-color: #bb2734;
     width: 250px;
     height: 20px;
 }
