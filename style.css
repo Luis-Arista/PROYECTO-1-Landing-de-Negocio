@@ -469,71 +469,6 @@ Responsive */
 
 @media (max-width: 820px){ /*tablets*/
 
-<<<<<<< HEAD
-=======
-   
-    /* banner- -------------------------------------------*/
-
-    .banner {
-        width: 100%;
-        height: auto;
-        background-color: rgb(31, 30, 30);
-    }
-    
-    .banner-imagen{
-        height: auto;
-     }
-
-    .banner-imagen img{
-       height: auto;
-    }
-   
-    .banner-container {
-        display: flex;
-        height: auto;
-        
-    }
-
-    .banner-info{
-        height: 500px ;
-        width: 100%;
-        position: relative;
-        top: 0;
-        margin: 0;
-        border-radius: 0;
-        display: flex;
-        justify-content: space-between;
-        
-    }
-
-     
-    .banner-info-title{
-        border-radius: 0px;
-    }
-    
-    
-    .banner-info-title h1 {
-        font-size: 30px;
-        margin-bottom: 5px;
-        
-    }
-
-    .banner-info-form {
-        margin-top: 0px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        height: 100%;
-        
-    }
-
-    .banner-button-form {
-        margin-top: 0px;
-    
-    }
-    
-
->>>>>>> a90c228 (Correccion para celulares y tablets al igual que mejora en las descripciones de los productos)
     /* Desserts---------------------------------- */
     
     .dessert-products {
@@ -593,7 +528,6 @@ Responsive */
         
     }
 
-<<<<<<< HEAD
     /* banner------------------------------------------ */
 
 
@@ -608,9 +542,6 @@ Responsive */
     .banner-info-form {
         margin-top: 0px;
     }
-=======
-    
->>>>>>> a90c228 (Correccion para celulares y tablets al igual que mejora en las descripciones de los productos)
 
 
     /*---footer----------------------------------------------*/
