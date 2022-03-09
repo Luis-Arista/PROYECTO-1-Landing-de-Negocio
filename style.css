@@ -44,13 +44,20 @@ header{
 /*Seccion Banner------------------------------------------*/
 
 .banner {
-    background-image: url(./assets/img/Brownie\ banner.jpeg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
     width: 100%;
-    height: 600px;
     background-color: rgb(31, 30, 30);
+}
+
+.banner-imagen{
+    max-width: 60rem;
+    margin: 0 auto;
+}
+
+.banner img {
+    width: 100%;
+    height: auto;
+    
+
 }
 
 .banner-container {
@@ -58,7 +65,7 @@ header{
     margin: 0 auto;
     display: flex;
     align-items: center;
-    height: 100%;
+    
 }
 
 .banner-info {
@@ -72,6 +79,10 @@ header{
     flex-direction: column;
     justify-content: flex-start;
     margin: 0 10px;
+    position: absolute;
+    top: 110px;
+    
+
 }
 
 .banner-info-title {
@@ -563,5 +574,7 @@ Responsive */
     .banner-info-form {
         margin-top: 30px;
     }
+
+    
    
 }
